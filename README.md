@@ -1,3 +1,3 @@
-# Lesson1
+# Info
 
-This is a repository for HTML lessson.
+This is a repository for different exercises I complete in my learning journey. 
